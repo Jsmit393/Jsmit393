@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I'm a **Data Science student** passionate about so
 ---
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/jonathan-smith)
+- [LinkedIn](https://www.linkedin.com/in/jsmith393)
 
 - [Email](mailto:jonathanksmithjw@gmail.com)
