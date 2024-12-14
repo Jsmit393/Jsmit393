@@ -8,6 +8,7 @@ Welcome to my coding portfolio! Here, I document my journey in data science, sof
 - [Java Projects](#java-projects)
 
 ---
+### [📊 Python Portfolio](https://github.com/JonathanSmith/Python-Portfolio)
 
 # Python Projects
 
