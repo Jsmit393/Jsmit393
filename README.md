@@ -39,5 +39,5 @@ Welcome to my coding portfolio! Here, I document my journey in data science, sof
 ---
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://linkedin.com/jsmith393)
+- [LinkedIn](https://linkedin.com/in/jsmith393)
 - [Email](mailto:jonathanksmithjw@gmail.com)
